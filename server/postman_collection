@@ -37,7 +37,7 @@
 			"collectionId": "a5413450-8a1c-4c90-9270-541ee478d3c9",
 			"data": [],
 			"dataMode": "raw",
-			"name": "http://localhost:3001/api/messages",
+			"name": "http://localhost:8080/api/messages",
 			"description": "",
 			"descriptionFormat": "html",
 			"time": 1497625143450,
